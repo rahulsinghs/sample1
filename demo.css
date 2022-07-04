@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: antiquewhite;
+    
+}
+
+nav ul{
+   
+}
+
+nav li{
+    list-style: none;
+    text-align: center;
+}
