@@ -7,6 +7,11 @@ nav {
     
 }
 
+.navbar{
+    display:flex;
+}
+
+
 nav ul{
    
 }
