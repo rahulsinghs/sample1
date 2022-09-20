@@ -12,8 +12,8 @@ nav {
 }
 
 
-nav ul{
-   
+nav ul li{
+   display:flexbox;
 }
 
 nav li{
